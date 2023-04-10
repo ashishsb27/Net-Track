@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Net-Track
+</name>
+</assembly>
+<members>
+<member name="T:Net_Track.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._1041628_protection_safe_security_shield_icon_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._1110973_close_essential_set_x_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._2634480_canada_ensign_flag_nation_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._2897337_eye_private_retina_scan_scanning_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._2955252_calander_calendar_appointment_date_event_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._32364_united_states_flag_usa_united_states_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._352216_key_vpn_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._353431_clock_performance_speed_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._3545097_approved_aproved_outline_password_privacy_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._4168572_remove_cancel_close_delete_minus_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._4171945_admin_dashboard_theme_administrator_compact_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._4171945_admin_dashboard_theme_administrator_compact_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._4781840___add_circle_create_expand_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._4964014_encryption_lock_no_protection_secure_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._532708_fire_firewall_online_protection_safety_security_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._7503212_notification_bell_alert_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._7506087_setting_configuration_settings_preferences_gear_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._8678695_scan_scanner_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._8684058_folder_file_document_search_find_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._9045174_scan_alt_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._92094_germany_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._928429_account_customer_profile_user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._928433_detail_help_information_question_service_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources._9845931_bug_scan_search_error_virus_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.Group_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.Group1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.Group2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.Group21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Net_Track.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
